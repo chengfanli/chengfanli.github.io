@@ -1,2 +1,2 @@
 # lllllcf.github.io
-My small small website
+My small small website![fun](fun.png)

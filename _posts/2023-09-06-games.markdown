@@ -1,0 +1,85 @@
+---
+layout: post
+title: Game Portfolio
+date: 2023-09-06 13:21:00
+description: Game Portfolio
+img: i-game.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+## BIOLOGY 452: Field Ecology of Snail-Fungus Interaction
+
+<a href="https://lllllcf.itch.io/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: itch.io]</a> <a href="https://www.indiedb.com/games/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: Indiedb]</a> <a href="{{site.baseurl}}/src/Trailer452.mp4">[Trailer]</a> <a href="{{site.baseurl}}/src/p3_build/WindowsBuild.zip">[Download Windows Build]</a> <a href="{{site.baseurl}}/src/p3_build/MacBuild.zip">[Download Mac Build]</a> <a href="https://github.com/lllllcf/eecs494-p3">[Github]</a>
+
+<img src="{{site.baseurl}}/src/CG1.png" style="zoom:20%;" /> &nbsp; &nbsp; &nbsp;<img src="{{site.baseurl}}/src/CG2.png" style="zoom:20%;" />
+
+In this two-player asymmetric RTS game, players control Mushroom and Snail as two opposing species that aim to destroy each other in an enclosed natural environment with limited resources. Each side has unique abilities and tools to help it achieve dominance over the other.
+
+<img src="{{site.baseurl}}/src/show.jpg" style="zoom:25%;" />
+
+This game was jointly developed by Xiaoyu Liu, <a href="https://yanmeeei.github.io/portfolio/">Yanmei Wang</a>, <a href="https://yushi111.github.io/">Yushi She</a>, and me. I implemented buildings, the spit skill, the growth algorithm, the vitality system, and the skill selection mechanism.
+
+
+
+<br>
+
+## Spatial-Temporal Narrative
+
+<a href="https://lllllcf.itch.io/spatial-temporal-narrative">[Play It Online]</a> <a href="https://github.com/lllllcf/EECS494-GameDev-Project2-ST-Narrative">[Github]</a>
+
+<img src="{{site.baseurl}}/src/p2c1.png" style="zoom:25%;" /> &nbsp; &nbsp; &nbsp;<img src="{{site.baseurl}}/src/p2c2.png" style="zoom:25%;" />
+
+Welcome to Spatial-Temporal Narrative, the puzzle game where you can manipulate time and space to complete beautiful and intricate levels. As the player, you'll embark on a journey through different worlds, solving challenging puzzles by navigating through mazes without repeating your path. But you're not alone in this adventure: you have the power of time travel and space teleportation at your fingertips to help you overcome obstacles and reach the end of each level.
+
+I developed the whole game.
+
+<img src="{{site.baseurl}}/src/p2g1.png" style="zoom:25%;" /> &nbsp; &nbsp; &nbsp;<img src="{{site.baseurl}}/src/p2g2.png" style="zoom:25%;" />
+
+
+
+<br>
+
+## The Legend of Zelda (Unity Remaster)
+
+<a href="https://lllllcf.itch.io/legend-o-zelda">[Play It Online]</a>
+
+<img src="{{site.baseurl}}/src/zelda_cover.png" style="zoom:35%;" />
+
+Reproduced the dungeon level of "Legend of Zelda", while retaining its exciting story, fantastic background, and interesting puzzles, some hidden mechanisms have been added for players to explore.
+
+<img src="{{site.baseurl}}/src/P1G1.png" style="zoom:35%;" />
+
+This game was jointly developed by <a href="https://yushi111.github.io/">Yushi She</a>, and me. I developed the transition system, enemies, and the music puzzle.
+
+
+
+<br>
+
+## Fortun Chase
+
+<a href="{{site.baseurl}}/game/Frotun_Chase/doc/booklet.pdf">[Booklet]</a> <a href="{{site.baseurl}}/game/Frotun_Chase/doc/poster.pdf">[Poster]</a> <a href="{{site.baseurl}}/game/Frotun_Chase/doc/trailer.mp4">[Trailer]</a> <a href="{{site.baseurl}}/game/Frotun_Chase/build/index.html">[Play It Online]</a>
+
+<img src="{{site.baseurl}}/src/fc1.png" style="zoom:25%;" />
+
+The town of Fortun, named after "fortune", was enveloped by a sense of tension. After 30 years' silence, the biggest four gangster families decided to claim the rulership of this rich town on the boundary. Will you lead them to a glorious new chapter?
+
+<img src="{{site.baseurl}}/src/fc2.png" style="zoom:25%;" />
+
+
+
+<br>
+
+## Conqueror: 1453
+
+<a href="{{site.baseurl}}/game/Conqueror_1453/Instruction Booklet.pdf">[Booklet]</a> <a href="{{site.baseurl}}/game/Conqueror_1453/build/index.html">[Play It Online]</a>
+
+<img src="{{site.baseurl}}/src/c1.png" style="zoom:25%;" />
+
+In the spring of 1453, hundreds of thousands of Ottoman soldiers under the command of Mehmed II were besieging Constantinople, the last bastion of Byzantines. Victory seemed to be within reach, but the impregnable gate of Constantinople held the Ottomans back and left them daunted.
+
+<img src="{{site.baseurl}}/src/c2.png" style="zoom:25%;" />
+
+
+
+
+

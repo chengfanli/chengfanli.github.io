@@ -41,7 +41,7 @@ Using Python, JavaScript, HTML, SQL, and React to implement a similar design to 
 
 
 
-## Predicting Growth of Fungi
+## Predicting Growth of Fungi and Species Competitions under Different Environments Using CA Modeling
 
 <a href="https://lllllcf.github.io/project/2021MCM.pdf">[Paper]</a>
 
@@ -52,7 +52,7 @@ Use cellular automata to demonstrate the fungi's growth and ELO system for compe
 
 <br>
 
-## Ion Thrusters to Saturn
+## Peak Mission: Ion Thrusters to Saturn Saving the Maximum Fuel Consumption
 
 <a href="https://lllllcf.github.io/project/2020UPC.pdf">[Paper]</a>
 

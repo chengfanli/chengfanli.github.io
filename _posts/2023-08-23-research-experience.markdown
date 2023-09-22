@@ -44,8 +44,8 @@ Design intelligent programmable SRR Metasurface unit structure with desired phas
 
 <img src="{{site.baseurl}}/src/para.png" style="zoom:40%;" />     <img src="{{site.baseurl}}/src/power.png" style="zoom:45%;" />
 
-Propose and design 1-bit programmable Metasurface based single pixel camera and its corresponding signal reconstruction method. Developing complex information reconstruction algorithm with dual receiver.
+Propose and design 1-bit programmable Metasurface based single pixel camera and its corresponding signal reconstruction method. Developing complex information reconstruction algorithm with dual receiver. <a href="https://github.com/lllllcf/Metasurface-Based-Single-Pixel-Camera">[Github]</a>
 
 <img src="{{site.baseurl}}/src/spc.jpg" style="zoom:50%;" />
 
-Developing switching modulation strategy to suppress undesired harmonics for spectrally efficient communication. The result was accepted by 2021 Asia-Pacific Microwave Conference.
+Developing switching modulation strategy to suppress undesired harmonics for spectrally efficient communication. The result was accepted by 2021 Asia-Pacific Microwave Conference. <a href="https://github.com/lllllcf/APMC-STPM-for-SCR">[Github]</a>

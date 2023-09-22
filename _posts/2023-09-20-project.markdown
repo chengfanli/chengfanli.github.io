@@ -17,7 +17,7 @@ Please visit <a href="https://lllllcf.github.io/games/">[Game Portfolio]</a>.
 
 ## Generative Adversarial Network-based Rap Lyrics Generator
 
-<a href="https://lllllcf.github.io/project/EECS_487_Final.pdf">[Paper]</a>
+<a href="https://lllllcf.github.io/project/EECS_487_Final.pdf">[Paper]</a> <a href="https://github.com/lllllcf/487-Project-Rap-Lyrics-Generation">[Github]</a>
 
 As rap music quickly evolved into a mainstream music genre, it triggered the interest of a number of linguists and computer scientists. Rap lyrics are often considered one of the most complex kinds of lyrics. Eligible rap lyrics require not only creativity to tell an intriguing story but also lyrical skills to accommodate the strict rhyme patterns. Our project aims to study the computational creation of rap lyrics and make everyone able to “write” their own lyrics only by entering a piece of phrase. By utilizing multiple NLP techniques, we hope to generate rap lyrics that model the meaning, the rhyme, and the rhythm.
 
@@ -43,7 +43,7 @@ Using Python, JavaScript, HTML, SQL, and React to implement a similar design to 
 
 ## Predicting Growth of Fungi and Species Competitions under Different Environments Using CA Modeling
 
-<a href="https://lllllcf.github.io/project/2021MCM.pdf">[Paper]</a>
+<a href="https://lllllcf.github.io/project/2021MCM.pdf">[Paper]</a> <a href="https://github.com/lllllcf/2020-MCM-A">[Github]</a>
 
 <img src="{{site.baseurl}}/src/mcm.png" style="zoom:40%;" />
 

@@ -15,6 +15,20 @@ Please visit <a href="https://lllllcf.github.io/games/">[Game Portfolio]</a>.
 
 
 
+## Sky Lantern Simulator
+
+ <a href="{{site.baseurl}}/src/skylantern.mp4">[Trailer]</a> <a href="https://github.com/lllllcf/LuminaryStudio">[Github]</a>
+
+This project is a real-time simulation of Kongming Lantern using OpenGL. It's an immersive visualization that incorporates advanced graphics techniques to realistically portray this traditional Chinese lantern.
+
+<img src="{{site.baseurl}}/src/skylantern1.png" style="zoom:40%;" /> <img src="{{site.baseurl}}/src/skylantern2.png" style="zoom:40%;" />
+
+Using particle system, real-time texture mapping, dynamic environmental reflection \& refraction, water simulation, and physical simulation to simulate the scene of hundreds of sky lanterns flying on the water.
+
+<br>
+
+
+
 ## Generative Adversarial Network-based Rap Lyrics Generator
 
 <a href="https://lllllcf.github.io/project/EECS_487_Final.pdf">[Paper]</a> <a href="https://github.com/lllllcf/487-Project-Rap-Lyrics-Generation">[Github]</a>

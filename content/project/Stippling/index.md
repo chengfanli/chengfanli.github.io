@@ -13,7 +13,7 @@ links:
   url: https://github.com/lllllcf/StipplingStudio
 ---
 
-<img src="https://lllllcf.github.io/src/Gallery/teaser.png" alt="teaser" style="zoom:50%;" />
+<img src="../../../src/Gallery/teaser.png" alt="teaser" style="zoom:50%;" />
 
 # Stippling
 

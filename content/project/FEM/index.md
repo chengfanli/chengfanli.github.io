@@ -41,30 +41,30 @@ Developed deformable solid objects simulation based on tetrahedral meshes using 
 
 * Single tetrahedron falling on the floor (`./inis/tet.ini` $\rightarrow$ `./demo-video/tet.mp4`)
 
-  <video src="/src/graphics/demo-video/tet.mp4" style="width: 62%;"></video>
+  <video src="https://lllllcf.github.io/src/graphics/demo-video/tet.mp4" style="width: 62%;"></video>
 
 * Cube falling on the floor (`./inis/cube.ini` $\rightarrow$ `./demo-video/cube.mp4`)
 
-  <video src="/src/graphics/demo-video/cube.mp4" style="width: 62%;"></video>
+  <video src="https://lllllcf.github.io/src/graphics/demo-video/cube.mp4" style="width: 62%;"></video>
 
 * Ellipsoid falling on the floor with fixed sphere (`./inis/ellipsoid.ini` $\rightarrow$ `./demo-video/ellipsoid.mp4`)
 
-  <video src="/src/graphics/demo-video/ellipsoid.mp4" style="width: 62%;"></video>
+  <video src="https://lllllcf.github.io/src/graphics/demo-video/ellipsoid.mp4" style="width: 62%;"></video>
 
 * Higher-order explicit integrator
 
   * With Runge-Kutta 4 Integrator (`./inis/rk4_on.ini` $\rightarrow$ `./demo-video/rk4_on.mp4`)
 
-    <video src="/src/graphics/demo-video/rk4_on.mp4" style="width: 62%;"></video>
+    <video src="https://lllllcf.github.io/src/graphics/demo-video/rk4_on.mp4" style="width: 62%;"></video>
 
   * Without Runge-Kutta 4 Integrator (`./inis/rk4_off.ini` $\rightarrow$ `./demo-video/rk4_off.mp4`)
 
-    <video src="/src/graphics/demo-video/rk4_off.mp4" style="width: 62%;"></video>
+    <video src="https://lllllcf.github.io/src/graphics/demo-video/rk4_off.mp4" style="width: 62%;"></video>
 
 * Adaptive time stepping
 
   * With Adaptive time stepping (`./inis/adapt_on.ini` $\rightarrow$ `./demo-video/adapt_on.mp4`)
 
-    <video src="/src/graphics/demo-video/adapt_on.mp4" style="width: 62%;"></video>
+    <video src="https://lllllcf.github.io/src/graphics/demo-video/adapt_on.mp4" style="width: 62%;"></video>
 
   * Without Adaptive time stepping (`./inis/adapt_off.ini` $\rightarrow$ `./demo-video/adapt_off.mp4`)

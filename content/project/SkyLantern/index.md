@@ -14,7 +14,7 @@ links:
 
 This project is a real-time simulation of Kongming Lantern using OpenGL. It's an immersive visualization that incorporates advanced graphics techniques to realistically portray this traditional Chinese lantern.
 
-<img src="/src/skylantern1.png" style="width:62%;" />
-<img src="/src/skylantern2.png" style="width:62%;" />
+<img src="https://lllllcf.github.io/src/skylantern1.png" style="width:62%;" />
+<img src="https://lllllcf.github.io/src/skylantern2.png" style="width:62%;" />
 
 Using particle system, real-time texture mapping, dynamic environmental reflection \& refraction, water simulation, and physical simulation to simulate the scene of hundreds of sky lanterns flying on the water.

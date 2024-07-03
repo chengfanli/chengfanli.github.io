@@ -13,7 +13,7 @@ links:
   url: https://github.com/lllllcf/StipplingStudio
 ---
 
-<img src="/src/Gallery/teaser.png" alt="teaser" style="zoom:50%;" />
+<img src="https://lllllcf.github.io/src/Gallery/teaser.png" alt="teaser" style="zoom:50%;" />
 
 # Stippling
 
@@ -47,28 +47,28 @@ Based on the research and exploration of stippling, we have implemented the foll
 
 ### Voronoi Diagram
 
-<img src="/src/Gallery/voronoi2.png" width="400">
+<img src="https://lllllcf.github.io/src/Gallery/voronoi2.png" width="400">
 
 Voronoi diagrams can be used to create a variety of amazing visual effects including stippling. In this project, we use [jc_voronoi](https://github.com/JCash/voronoi) to calculate voronoi diagram efficiently and assign pixels to voronoi cell based on edges and site position.
 
 ### Video Stippling
 
-<img src="/src/Gallery/tiger.gif" width="400">
+<img src="https://lllllcf.github.io/src/Gallery/tiger.gif" width="400">
 We haven't integrated video stippling on the master branch yet, but there are some helpful python scripts included in the [VideoStippling](./VideoStippling) folder.
 
 ## MLBG
 
-<img src="/src/Gallery/monroe_with_ordering.png" width="200">
+<img src="https://lllllcf.github.io/src/Gallery/monroe_with_ordering.png" width="200">
 
 
 ## Color Stippling
 
-<img src="/src/Gallery/color_with_filling.jpg" width="300">
+<img src="https://lllllcf.github.io/src/Gallery/color_with_filling.jpg" width="300">
 
 
 ## Reconstruction
 
-<img src="/src/Gallery/model.png" width="500">
+<img src="https://lllllcf.github.io/src/Gallery/model.png" width="500">
 
 ### Data
 
@@ -80,13 +80,13 @@ We haven't integrated video stippling on the master branch yet, but there are so
 
 ### Results
 
-<img src="/src/Gallery/77_stippling.png" width="300"> <img src="/src/Gallery/77_reconstruction.png" width="300">
+<img src="https://lllllcf.github.io/src/Gallery/77_stippling.png" width="300"> <img src="https://lllllcf.github.io/src/Gallery/77_reconstruction.png" width="300">
 
 Use [this link](https://drive.google.com/file/d/1rNqYqDoWK2uVU3JlxZ1rmFFiMoJb_Uys/view?usp=drive_link) to download the results of all images in the test set.
 
 ### Stippling-Reconstruction Iterations
 
-<img src="/src/Gallery/S-L.png" width="500">
+<img src="https://lllllcf.github.io/src/Gallery/S-L.png" width="500">
 
 Here is the result obtained after using our model to continuously perform the Stippling-Reconstruction cycle on the grayscale image. Detailed results can be found [here](./Reconstruction/repeat_test/data).
 
@@ -94,15 +94,15 @@ Here is the result obtained after using our model to continuously perform the St
 
 ## Gallery
 
-<img src="/src/Gallery/book.gif" width="500">
+<img src="https://lllllcf.github.io/src/Gallery/book.gif" width="500">
 
-<img src="/src/Gallery/monroe_with_ordering.png" width="200">    <img src="/src/Gallery/filling.jpg" width="400">
+<img src="https://lllllcf.github.io/src/Gallery/monroe_with_ordering.png" width="200">    <img src="https://lllllcf.github.io/src/Gallery/filling.jpg" width="400">
 
-<img src="/src/Gallery/s_0378.png" width="300">    <img src="/src/Gallery/s_1547.png" width="300">
+<img src="https://lllllcf.github.io/src/Gallery/s_0378.png" width="300">    <img src="https://lllllcf.github.io/src/Gallery/s_1547.png" width="300">
 
-<img src="/src/Gallery/color_with_filling.jpg" width="500">
+<img src="https://lllllcf.github.io/src/Gallery/color_with_filling.jpg" width="500">
 
- <img src="/src/Gallery/s_0019.png" width="300"> <img src="/src/Gallery/s_1503.png" width="300">
+ <img src="https://lllllcf.github.io/src/Gallery/s_0019.png" width="300"> <img src="https://lllllcf.github.io/src/Gallery/s_1503.png" width="300">
 
 
 

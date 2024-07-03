@@ -12,6 +12,6 @@ In this project, we have introduced the Genomic Literature Knowledge Base (GLKB)
 
 By amalgamating insights from both literature and databases into a single, unified resource, the GLKB empowers researchers with a potent tool to expedite the pace of genomic research and discovery.
 
-<img src="{{site.baseurl}}/src/glkb1.png" style="width: 62%;" />
+<img src="https://lllllcf.github.io/src/glkb1.png" style="width: 62%;" />
 
 Under the supervision of Dr. Jie Liu, I worked with four peers to build the Genomic Literature Knowledge Base (GLKB), which incorporates multiple ontologies and captures the informative functional relations in the human genome. I extract entities, relationships, and events from the medical literature in the 34 million citations for biomedical literature from MEDLINE, life science journals, and online books in the PubMed database. I review and reproduce existing end-to-end NER and joint extraction models. Reproduce the DeepEventMine model and apply it to the Pubmed biomedical literature database to extract events.

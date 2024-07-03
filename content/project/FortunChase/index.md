@@ -21,4 +21,4 @@ links:
 
 The town of Fortun, named after "fortune", was enveloped by a sense of tension. After 30 years' silence, the biggest four gangster families decided to claim the rulership of this rich town on the boundary. Will you lead them to a glorious new chapter?
 
-<img src="/src/fortunChase.png" style="width: 62%;" />
+<img src="https://lllllcf.github.io/src/fortunChase.png" style="width: 62%;" />

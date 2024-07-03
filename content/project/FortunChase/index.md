@@ -8,17 +8,17 @@ date: 2020-07-01
 
 links:
 - name: Booklet
-  url: https://lllllcf.github.io/game/Frotun_Chase/doc/booklet.pdf
+  url: https://lllllcf.github.io/project/project/game/Frotun_Chase/doc/booklet.pdf
 - name: Poster
-  url: https://lllllcf.github.io/game/Frotun_Chase/doc/poster.pdf
+  url: https://lllllcf.github.io/project/project/game/Frotun_Chase/doc/poster.pdf
 - name: Trailer
-  url: https://lllllcf.github.io/game/Frotun_Chase/doc/trailer.mp4
+  url: https://lllllcf.github.io/project/project/game/Frotun_Chase/doc/trailer.mp4
 - name: Play It Online
-  url: https://lllllcf.github.io/game/Frotun_Chase/build/index.html
+  url: https://lllllcf.github.io/project/project/game/Frotun_Chase/build/index.html
 - name: Github
   url: https://github.com/lllllcf/Frotun-Chase
 ---
 
 The town of Fortun, named after "fortune", was enveloped by a sense of tension. After 30 years' silence, the biggest four gangster families decided to claim the rulership of this rich town on the boundary. Will you lead them to a glorious new chapter?
 
-<img src="https://lllllcf.github.io/src/fortunChase.png" style="width: 62%;" />
+<img src="https://lllllcf.github.io/project/project/src/fortunChase.png" style="width: 62%;" />

@@ -13,16 +13,16 @@ links:
 - name: Github
   url: https://github.com/lllllcf/eecs494-p3
 - name: Trailer
-  url: https://lllllcf.github.io/src/Trailer452.mp4
+  url: https://lllllcf.github.io/project/prooject/src/Trailer452.mp4
 
 ---
 
 In this two-player asymmetric RTS game, players control Mushroom and Snail as two opposing species that aim to destroy each other in an enclosed natural environment with limited resources. Each side has unique abilities and tools to help it achieve dominance over the other.
 
-<img src="https://lllllcf.github.io/src/CG1.png" style="width: 62%;" /><img src="https://lllllcf.github.io/src/CG2.png" style="width: 62%;" />
+<img src="../src/CG1.png" style="width: 62%;" /><img src="/src/CG2.png" style="width: 62%;" />
 
 This game was jointly developed by Xiaoyu Liu, <a href="https://yanmeeei.github.io/portfolio/">Yanmei Wang</a>, <a href="https://yushi111.github.io/">Yushi She</a>, and me. I implemented buildings, the spit skill, the growth algorithm, the vitality system, and the skill selection mechanism.
 
-<img src="https://lllllcf.github.io/src/show.jpg" style="width: 62%;" />
+<img src="../src/show.jpg" style="width: 62%;" />
 
 

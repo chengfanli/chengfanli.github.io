@@ -8,7 +8,7 @@ date: 2024-04-01
 
 links:
 - name: Trailer
-  url: /src/stippling.mp4
+  url: https://lllllcf.github.io/project/src/stippling.mp4
 - name: Github
   url: https://github.com/lllllcf/StipplingStudio
 ---

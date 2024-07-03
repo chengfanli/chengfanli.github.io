@@ -13,7 +13,7 @@ links:
 - name: Github
   url: https://github.com/lllllcf/eecs494-p3
 - name: Trailer
-  url: https://lllllcf.github.io/project/prooject/src/Trailer452.mp4
+  url: https://lllllcf.github.io/project/src/Trailer452.mp4
 
 ---
 

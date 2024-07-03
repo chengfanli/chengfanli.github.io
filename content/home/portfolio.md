@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '^[Cgto]*'
+      tag: [CV, CG, game, tool, other]
     - name: Computer Vision
       tag: CV
     - name: Computer Graphics

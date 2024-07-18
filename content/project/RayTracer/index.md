@@ -21,23 +21,23 @@ Run the program with the specified `.ini` file to compare your output (it should
 
 | File/Method To Produce Output |                       Expected Output                        |                         Your Output                          |
 | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|       point_light_1.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_1.png) | ![Place point_light_1.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/point_light_1.png) |
-|       point_light_2.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_2.png) | ![Place point_light_2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/point_light_2.png) |
-|       spot_light_1.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/spot_light/spot_light_1.png) | ![Place spot_light_1.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/spot_light_1.png) |
-|       spot_light_2.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/spot_light/spot_light_2.png) | ![Place spot_light_2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/spot_light_2.png) |
-|       simple_shadow.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/simple_shadow.png) | ![Place simple_shadow.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/simple_shadow.png) |
-|        shadow_test.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/shadow_test.png) | ![Place shadow_test.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/shadow_test.png) |
-|    shadow_special_case.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/shadow_special_case.png) | ![Place shadow_special_case.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/shadow_special_case.png) |
-|     reflections_basic.ini     | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/reflection/reflections_basic.png) | ![Place reflections_basic.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/reflections_basic.png) |
-|    reflections_complex.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/reflection/reflections_complex.png) | ![Place reflections_complex.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/reflections_complex.png) |
-|       texture_cone.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cone.png) | ![Place texture_cone.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_cone.png) |
+|       point_light_1.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_1.png) | ![Place point_light_1.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/point_light_1.png) |
+|       point_light_2.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_2.png) | ![Place point_light_2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/point_light_2.png) |
+|       spot_light_1.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/spot_light/spot_light_1.png) | ![Place spot_light_1.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/spot_light_1.png) |
+|       spot_light_2.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/spot_light/spot_light_2.png) | ![Place spot_light_2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/spot_light_2.png) |
+|       simple_shadow.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/simple_shadow.png) | ![Place simple_shadow.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/simple_shadow.png) |
+|        shadow_test.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/shadow_test.png) | ![Place shadow_test.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/shadow_test.png) |
+|    shadow_special_case.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/shadow/shadow_special_case.png) | ![Place shadow_special_case.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/shadow_special_case.png) |
+|     reflections_basic.ini     | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/reflection/reflections_basic.png) | ![Place reflections_basic.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/reflections_basic.png) |
+|    reflections_complex.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/reflection/reflections_complex.png) | ![Place reflections_complex.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/reflections_complex.png) |
+|       texture_cone.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cone.png) | ![Place texture_cone.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_cone.png) |
 |       texture_cone2.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cone2.png) | ![Place texture_cone2.png in student_outputs/illuminate/required folder](student_outputs/illuminate/required/texture_cone2.png) |
-|       texture_cube.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cube.png) | ![Place texture_cube.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_cube.png) |
-|       texture_cube2.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cube2.png) | ![Place texture_cube2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_cube2.png) |
-|        texture_cyl.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cyl.png) | ![Place texture_cyl.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_cyl.png) |
-|       texture_cyl2.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cyl2.png) | ![Place texture_cyl2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_cyl2.png) |
+|       texture_cube.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cube.png) | ![Place texture_cube.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_cube.png) |
+|       texture_cube2.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cube2.png) | ![Place texture_cube2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_cube2.png) |
+|        texture_cyl.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cyl.png) | ![Place texture_cyl.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_cyl.png) |
+|       texture_cyl2.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_cyl2.png) | ![Place texture_cyl2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_cyl2.png) |
 |      texture_sphere.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_sphere.png) | ![Place texture_sphere.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_sphere.png) |
-|      texture_sphere2.ini      | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_sphere2.png) | ![Place texture_sphere2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/required/texture_sphere2.png) |
+|      texture_sphere2.ini      | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/texture_tests/texture_sphere2.png) | ![Place texture_sphere2.png in student_outputs/illuminate/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/required/texture_sphere2.png) |
 
 ## Design Choices
 
@@ -85,7 +85,7 @@ Use the following two command line arguments to compare the output.
 
 `template_inis/illuminate/extra_credit/bilinear_off.ini`
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/bilinear.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/bilinear_off.png" alt="softshadow" style="zoom:35%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/bilinear.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/bilinear_off.png" alt="softshadow" style="zoom:35%;" />
 
 
 
@@ -101,11 +101,11 @@ Use the following two command line arguments to see the output.
 
 `template_inis/illuminate/extra_credit/refract2.ini`
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/refract1.png" alt="softshadow" style="zoom:35%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/refract1.png" alt="softshadow" style="zoom:35%;" />
 
 The output for `refract1` is similar to the expected output.
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/refract2.png" alt="softshadow" style="zoom:35%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/refract2.png" alt="softshadow" style="zoom:35%;" />
 
 but the output for `refract2` does not achieve the expected results.
 
@@ -141,7 +141,7 @@ but the output for `refract2` does not achieve the expected results.
 
   `template_inis/illuminate/extra_credit/softshadow_off.ini`
 
-  <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/softshadow.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/softshadow_off.png" alt="softshadow" style="zoom:35%;" />
+  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/softshadow.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/softshadow_off.png" alt="softshadow" style="zoom:35%;" />
 
 + Use the following two command line arguments to compare the output.
 
@@ -149,7 +149,7 @@ but the output for `refract2` does not achieve the expected results.
 
   `template_inis/illuminate/extra_credit/softshadow2_off.ini`
 
-  <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/softshadow2.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/illuminate/extra/softshadow2_off.png" alt="softshadow" style="zoom:35%;" />
+  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/softshadow2.png" alt="softshadow" style="zoom:35%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/illuminate/extra/softshadow2_off.png" alt="softshadow" style="zoom:35%;" />
 
 ### Output Comparison
 
@@ -165,18 +165,18 @@ Run the program with the specified `.ini` file to compare your output (it should
 
 | File/Method To Produce Output |                       Expected Output                        |                         Your Output                          |
 | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         unit_cone.ini         | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cone.png) | ![Place unit_cone.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/unit_cone.png) |
-|       unit_cone_cap.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cone_cap.png) | ![Place unit_cone_cap.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/unit_cone_cap.png) |
-|         unit_cube.ini         | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cube.png) | ![Place unit_cube.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/unit_cube.png) |
-|       unit_cylinder.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cylinder.png) | ![Place unit_cylinder.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/unit_cylinder.png) |
-|        unit_sphere.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_sphere.png) | ![Place unit_sphere.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/unit_sphere.png) |
-|       parse_matrix.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/parse_matrix.png) | ![Place parse_matrix.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/parse_matrix.png) |
-|       ambient_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/ambient_total.png) | ![Place ambient_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/ambient_total.png) |
-|       diffuse_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/diffuse_total.png) | ![Place diffuse_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/diffuse_total.png) |
-|      specular_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/specular_total.png) | ![Place specular_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/specular_total.png) |
-|        phong_total.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/phong_total.png) | ![Place phong_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/phong_total.png) |
-|    directional_light_1.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/directional_light_1.png) | ![Place directional_light_1.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/directional_light_1.png) |
-|    directional_light_2.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/directional_light_2.png) | ![Place directional_light_2.png in student_outputs/intersect/required folder](https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/required/directional_light_2.png) |
+|         unit_cone.ini         | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cone.png) | ![Place unit_cone.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/unit_cone.png) |
+|       unit_cone_cap.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cone_cap.png) | ![Place unit_cone_cap.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/unit_cone_cap.png) |
+|         unit_cube.ini         | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cube.png) | ![Place unit_cube.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/unit_cube.png) |
+|       unit_cylinder.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_cylinder.png) | ![Place unit_cylinder.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/unit_cylinder.png) |
+|        unit_sphere.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/unit_sphere.png) | ![Place unit_sphere.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/unit_sphere.png) |
+|       parse_matrix.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/parse_matrix.png) | ![Place parse_matrix.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/parse_matrix.png) |
+|       ambient_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/ambient_total.png) | ![Place ambient_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/ambient_total.png) |
+|       diffuse_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/diffuse_total.png) | ![Place diffuse_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/diffuse_total.png) |
+|      specular_total.ini       | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/specular_total.png) | ![Place specular_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/specular_total.png) |
+|        phong_total.ini        | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/phong_total.png) | ![Place phong_total.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/phong_total.png) |
+|    directional_light_1.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/directional_light_1.png) | ![Place directional_light_1.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/directional_light_1.png) |
+|    directional_light_2.ini    | ![](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/intersect/required_outputs/directional_light_2.png) | ![Place directional_light_2.png in student_outputs/intersect/required folder](https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/required/directional_light_2.png) |
 
 ### Design Choices
 
@@ -226,7 +226,7 @@ Use the following two command line arguments to compare the speed.
 
 (use recursive_sphere_6.json)
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/recursive_sphere_6.png" alt="recursive_sphere_6" style="width:62%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/recursive_sphere_6.png" alt="recursive_sphere_6" style="width:62%;" />
 
 #### Parallelization: Level1: OpenMP
 
@@ -242,7 +242,7 @@ Use the following two command line arguments to compare the speed.
 
 (use primitive_salad_2.json)
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/primitive_salad_2.png" alt="primitive_salad_2.png" style="width:62%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/primitive_salad_2.png" alt="primitive_salad_2.png" style="width:62%;" />
 
 #### Anti-Aliasing: Blurring Post-filter
 
@@ -258,7 +258,7 @@ Use the following two command line arguments to compare the output.
 
 (use directional_light_2.json)
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/original_directional_light_2.png" alt="original_directional_light_2" style="width:62%;" /> <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/antialising_directional_light_2.png" alt="antialising_directional_light_2" style="width:62%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/original_directional_light_2.png" alt="original_directional_light_2" style="width:62%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/antialising_directional_light_2.png" alt="antialising_directional_light_2" style="width:62%;" />
 
 #### Super-Sampling: Stochastic Super-Sampling
 
@@ -272,7 +272,7 @@ Use the following two command line arguments to compare the output.
 
 (use primitive_salad_1.json)
 
-<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/original_primitive_salad_1.png" alt="original_primitive_salad_1" style="width:62%;" /> <img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/supersample_primitive_salad_1.png" alt="supersample_primitive_salad_1" style="width:62%;" />
+<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/original_primitive_salad_1.png" alt="original_primitive_salad_1" style="width:62%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/supersample_primitive_salad_1.png" alt="supersample_primitive_salad_1" style="width:62%;" />
 
 #### Create your own scene file
 
@@ -280,4 +280,4 @@ Use the following command line argument.
 
 `template_inis/intersect/extra_credit/customize.ini`
 
-(use torii.json)<img src="https://lllllcf.github.io/project/src/graphics/student_outputs/intersect/extra_credit/torii.png" alt="torii" style="width:62%;" />
+(use torii.json)<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/intersect/extra_credit/torii.png" alt="torii" style="width:62%;" />

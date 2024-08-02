@@ -8,9 +8,9 @@ date: 2020-06-01
 
 links:
 - name: Booklet
-  url: https://lllllcf.github.io/about/project/game/Conqueror_1453/Instruction Booklet.pdf
+  url: https://lllllcf.github.io/about/game/Conqueror_1453/Instruction Booklet.pdf
 - name: Play It Online
-  url: https://lllllcf.github.io/about/project/game/Conqueror_1453/build/index.html
+  url: https://lllllcf.github.io/about/game/Conqueror_1453/build/index.html
 - name: Github
   url: https://github.com/lllllcf/Conqueror-1453
 ---

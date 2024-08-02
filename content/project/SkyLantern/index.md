@@ -7,7 +7,7 @@ date: 2023-12-01
 # external_link: https://github.com/lllllcf/LuminaryStudio
 links:
 - name: Trailer
-  url: ../../about/src/skylantern.mp4
+  url: https://lllllcf.github.io/about/src/skylantern.mp4
 - name: Github
   url: https://github.com/lllllcf/LuminaryStudio
 ---

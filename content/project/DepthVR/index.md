@@ -15,12 +15,12 @@ links:
 
 <!-- <img src="https://chengfanli.github.io/about/src/VRteleop/system.png" alt="teaser" style="zoom:50%;" /> -->
 
-# Real-Time Temporally Consistent Depth Completion for VR-Teleoperated Robots
+## Real-Time Temporally Consistent Depth Completion for VR-Teleoperated Robots
 
 High-quality visual perception is essential for precise control and interaction in VR-teleoperated robotics. Existing systems are often challenged by sparse, noisy inputs and high latency, emphasizing the need for real-time, temporally consistent, and dense point cloud reconstruction. 
 
 
-## Overview
+### Overview
 
 <img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" />
 
@@ -30,26 +30,23 @@ Additionally, we implement a spatial-temporal geometry-aware filter that leverag
 
 This system achieves a rendering speed of 50 FPS, enhancing the visual quality and teleoperation experience.
 
-## Depth Completion
-Unguided Propagation Model + RGB Guided Multi-Scale Multi-Modal Fusion
+### Depth Completion
+Unguided propagation model + RGB guided multi-scale multi-modal fusion
+
+Left Camera: Sparse Depth
+Right Camera: Depth completion Result
 
 <video width="640" height="360" controls>
   <source src="https://chengfanli.github.io/about/src/VRteleop/s-d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+### Temporally Consistent Depth Refinement
+Pose estimation + Optical flow estimation + Spatial-temporal geometry-aware filter
 
-Left Camera: Sparse Depth
-Right Camera: Depth completion Result
+Left Camera: Depth completion + native frame mean averaging
 
-<video width="640" height="360" controls>
-  <source src="https://chengfanli.github.io/about/src/VRteleop/averaging.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-Left Camera: Depth completion Result
-Right Camera: Depth completion + native frame mean averaging (It is effective for static scene, but point cloud will exhibit drift and movement when the spot is moving)
+Right Camera: Depth completion + Temporally Consistent Depth Refinement (now the transition become smoother! and it is also effective for static scene) 
 
 <video width="640" height="360" controls>
   <source src="https://chengfanli.github.io/about/src/VRteleop/cvd.mp4" type="video/mp4">
@@ -57,14 +54,11 @@ Right Camera: Depth completion + native frame mean averaging (It is effective fo
 </video>
 
 
-Video3
-Left Camera: Depth completion + native frame mean averaging
-Right Camera: Depth completion + Temporally Consistent Depth Refinement (now the transition become smoother! and it is also effective for static scene) 
-
+<!-- 
 <video width="640" height="360" controls>
   <source src="https://chengfanli.github.io/about/src/VRteleop/final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 Video4
-Left/Right Camera: Depth completion +Temporally Consistent Depth Refinement + Point Cloud Inpainting
+Left/Right Camera: Depth completion +Temporally Consistent Depth Refinement + Point Cloud Inpainting -->

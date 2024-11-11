@@ -22,7 +22,7 @@ High-quality visual perception is essential for precise control and interaction 
 
 ## Overview
 
-<!-- <img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" /> -->
+<img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" />
 
 In this project, we present a real-time depth completion and point cloud reconstruction system specifically designed for VR-teleoperated spot robots. We employ an algebraically-constrained, normalized CNN to propagate depth and confidence through multi-modal fusion within a multi-scale network regulated by a gradient matching loss. 
 

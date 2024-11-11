@@ -10,6 +10,8 @@ links:
   url: https://github.com/h2r/GHOST
 - name: Model
   url: https://github.com/chengfanli/Realtime-Depth-Estimation-Nconv
+- name: Abstract
+  url: https://chengfanli.github.io/about/src/VRteleop/TeleNetAbstract.pdf
 ---
 
 
@@ -20,7 +22,7 @@ links:
 High-quality visual perception is essential for precise control and interaction in VR-teleoperated robotics. Existing systems are often challenged by sparse, noisy inputs and high latency, emphasizing the need for real-time, temporally consistent, and dense point cloud reconstruction. 
 
 
-### Overview
+## Overview
 
 <img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" />
 
@@ -30,10 +32,36 @@ Additionally, we implement a spatial-temporal geometry-aware filter that leverag
 
 This system achieves a rendering speed of 50 FPS, enhancing the visual quality and teleoperation experience.
 
+## Demo
+
+### Point Cloud Demo
+
+Real-time depth completion
+
+Spatial-temporal geometry-aware filter
+
+Temporally consistent point cloud reconstruction
+
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/final.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### VR Teleoperation Demo
+
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/telenet_small.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+## Experiments
+
 ### Depth Completion
 Unguided propagation model + RGB guided multi-scale multi-modal fusion
 
 Left Camera: Sparse Depth
+
 Right Camera: Depth completion Result
 
 <video width="640" height="360" controls>

@@ -4,7 +4,6 @@ summary: Real-time depth completion and 3D reconstruction system for enhanced VR
 tags:
   - CV
 date: 2024-07-01
-# external_link: https://github.com/brownvc/SpotReality
 
 links:
 - name: Unity
@@ -14,7 +13,7 @@ links:
 ---
 
 
-<img src="https://chengfanli.github.io/about/src/VRteleop/system.png" alt="teaser" style="zoom:50%;" />
+<!-- <img src="https://chengfanli.github.io/about/src/VRteleop/system.png" alt="teaser" style="zoom:50%;" /> -->
 
 # Real-Time Temporally Consistent Depth Completion for VR-Teleoperated Robots
 
@@ -23,7 +22,7 @@ High-quality visual perception is essential for precise control and interaction 
 
 ## Overview
 
-<img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" />
+<!-- <img src="https://chengfanli.github.io/about/src/VRteleop/overview.png" alt="teaser" style="zoom:50%;" /> -->
 
 In this project, we present a real-time depth completion and point cloud reconstruction system specifically designed for VR-teleoperated spot robots. We employ an algebraically-constrained, normalized CNN to propagate depth and confidence through multi-modal fusion within a multi-scale network regulated by a gradient matching loss. 
 
@@ -34,27 +33,38 @@ This system achieves a rendering speed of 50 FPS, enhancing the visual quality a
 ## Depth Completion
 Unguided Propagation Model + RGB Guided Multi-Scale Multi-Modal Fusion
 
-[]("https://chengfanli.github.io/about/src/VRteleop/s-d.mp4")
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/s-d.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 Left Camera: Sparse Depth
 Right Camera: Depth completion Result
 
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/averaging.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[]("https://chengfanli.github.io/about/src/VRteleop/averaging.mp4")
 
 Left Camera: Depth completion Result
 Right Camera: Depth completion + native frame mean averaging (It is effective for static scene, but point cloud will exhibit drift and movement when the spot is moving)
 
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/cvd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[]("https://chengfanli.github.io/about/src/VRteleop/cvd.mp4")
 
 Video3
 Left Camera: Depth completion + native frame mean averaging
 Right Camera: Depth completion + Temporally Consistent Depth Refinement (now the transition become smoother! and it is also effective for static scene) 
 
-
-[]("https://chengfanli.github.io/about/src/VRteleop/final.mp4")
+<video width="640" height="360" controls>
+  <source src="https://chengfanli.github.io/about/src/VRteleop/final.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Video4
 Left/Right Camera: Depth completion +Temporally Consistent Depth Refinement + Point Cloud Inpainting

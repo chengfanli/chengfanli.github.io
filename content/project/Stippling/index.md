@@ -4,20 +4,20 @@ summary: Generating stippled versions of images and videos based on [MLBG](https
 tags:
   - CG
 date: 2024-04-01
-# external_link: https://github.com/lllllcf/StipplingStudio
+# external_link: https://github.com/chengfanli/StipplingStudio
 
 links:
 - name: Trailer
-  url: https://lllllcf.github.io/about/src/stippling.mp4
+  url: https://chengfanli.github.io/about/src/stippling.mp4
 - name: Github
-  url: https://github.com/lllllcf/StipplingStudio
+  url: https://github.com/chengfanli/StipplingStudio
 ---
 
 <img src="../../about/src/Gallery/teaser.png" alt="teaser" style="zoom:50%;" />
 
 # Stippling
 
-CSCI 2240 Final Project for the Spring 2024 by Stippling Studio ([Chengfan Li](https://github.com/lllllcf), [Wendi Liao](https://github.com/wendi-liao) and [Yixuan Liu](https://github.com/Ahhhh2016))
+CSCI 2240 Final Project for the Spring 2024 by Stippling Studio ([Chengfan Li](https://github.com/chengfanli), [Wendi Liao](https://github.com/wendi-liao) and [Yixuan Liu](https://github.com/Ahhhh2016))
 
 Special thanks to the papers "[Weighted Linde-Buzo-Gray Stippling](https://graphics.uni-konstanz.de/publikationen/Deussen2017LindeBuzoGray/index.html)" and "[Multi-class Inverted Stippling](https://kops.uni-konstanz.de/bitstreams/21672707-75c4-410b-a4ff-87b21c2ed630/download)" that inspired this project.
 
@@ -47,28 +47,28 @@ Based on the research and exploration of stippling, we have implemented the foll
 
 ### Voronoi Diagram
 
-<img src="https://lllllcf.github.io/about/src/Gallery/voronoi2.png" width="400">
+<img src="https://chengfanli.github.io/about/src/Gallery/voronoi2.png" width="400">
 
 Voronoi diagrams can be used to create a variety of amazing visual effects including stippling. In this project, we use [jc_voronoi](https://github.com/JCash/voronoi) to calculate voronoi diagram efficiently and assign pixels to voronoi cell based on edges and site position.
 
 ### Video Stippling
 
-<img src="https://lllllcf.github.io/about/src/Gallery/tiger.gif" width="400">
+<img src="https://chengfanli.github.io/about/src/Gallery/tiger.gif" width="400">
 We haven't integrated video stippling on the master branch yet, but there are some helpful python scripts included in the [VideoStippling](./VideoStippling) folder.
 
 ## MLBG
 
-<img src="https://lllllcf.github.io/about/src/Gallery/monroe_with_ordering.png" width="200">
+<img src="https://chengfanli.github.io/about/src/Gallery/monroe_with_ordering.png" width="200">
 
 
 ## Color Stippling
 
-<img src="https://lllllcf.github.io/about/src/Gallery/color_with_filling.jpg" width="300">
+<img src="https://chengfanli.github.io/about/src/Gallery/color_with_filling.jpg" width="300">
 
 
 ## Reconstruction
 
-<img src="https://lllllcf.github.io/about/src/Gallery/model.png" width="500">
+<img src="https://chengfanli.github.io/about/src/Gallery/model.png" width="500">
 
 ### Data
 
@@ -80,13 +80,13 @@ We haven't integrated video stippling on the master branch yet, but there are so
 
 ### Results
 
-<img src="https://lllllcf.github.io/about/src/Gallery/77_stippling.png" width="300"> <img src="https://lllllcf.github.io/about/src/Gallery/77_reconstruction.png" width="300">
+<img src="https://chengfanli.github.io/about/src/Gallery/77_stippling.png" width="300"> <img src="https://chengfanli.github.io/about/src/Gallery/77_reconstruction.png" width="300">
 
 Use [this link](https://drive.google.com/file/d/1rNqYqDoWK2uVU3JlxZ1rmFFiMoJb_Uys/view?usp=drive_link) to download the results of all images in the test set.
 
 ### Stippling-Reconstruction Iterations
 
-<img src="https://lllllcf.github.io/about/src/Gallery/S-L.png" width="500">
+<img src="https://chengfanli.github.io/about/src/Gallery/S-L.png" width="500">
 
 Here is the result obtained after using our model to continuously perform the Stippling-Reconstruction cycle on the grayscale image. Detailed results can be found [here](./Reconstruction/repeat_test/data).
 
@@ -94,15 +94,15 @@ Here is the result obtained after using our model to continuously perform the St
 
 ## Gallery
 
-<img src="https://lllllcf.github.io/about/src/Gallery/book.gif" width="500">
+<img src="https://chengfanli.github.io/about/src/Gallery/book.gif" width="500">
 
-<img src="https://lllllcf.github.io/about/src/Gallery/monroe_with_ordering.png" width="200">    <img src="https://lllllcf.github.io/about/src/Gallery/filling.jpg" width="400">
+<img src="https://chengfanli.github.io/about/src/Gallery/monroe_with_ordering.png" width="200">    <img src="https://chengfanli.github.io/about/src/Gallery/filling.jpg" width="400">
 
-<img src="https://lllllcf.github.io/about/src/Gallery/s_0378.png" width="300">    <img src="https://lllllcf.github.io/about/src/Gallery/s_1547.png" width="300">
+<img src="https://chengfanli.github.io/about/src/Gallery/s_0378.png" width="300">    <img src="https://chengfanli.github.io/about/src/Gallery/s_1547.png" width="300">
 
-<img src="https://lllllcf.github.io/about/src/Gallery/color_with_filling.jpg" width="500">
+<img src="https://chengfanli.github.io/about/src/Gallery/color_with_filling.jpg" width="500">
 
- <img src="https://lllllcf.github.io/about/src/Gallery/s_0019.png" width="300"> <img src="https://lllllcf.github.io/about/src/Gallery/s_1503.png" width="300">
+ <img src="https://chengfanli.github.io/about/src/Gallery/s_0019.png" width="300"> <img src="https://chengfanli.github.io/about/src/Gallery/s_1503.png" width="300">
 
 
 

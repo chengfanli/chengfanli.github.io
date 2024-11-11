@@ -104,7 +104,7 @@ init flag =
             }
         event =
             { description = "1_1"
-            , optionDescription = ["I am lcf.", "I am lllllcf."]
+            , optionDescription = ["I am lcf.", "I am chengfanli."]
             , optionFunc = [optionFunc1_1_1, optionFunc1_1_2]
             , hint = ["wowowo"]
             }

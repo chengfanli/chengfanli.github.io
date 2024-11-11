@@ -8095,7 +8095,7 @@ var $author$project$Model$init = function (flag) {
 		hint: _List_fromArray(
 			['wowowo']),
 		optionDescription: _List_fromArray(
-			['I am lcf.', 'I am lllllcf.']),
+			['I am lcf.', 'I am chengfanli.']),
 		optionFunc: _List_fromArray(
 			[$author$project$Event$Event1_10$optionFunc1_1_1, $author$project$Event$Event1_10$optionFunc1_1_2])
 	};

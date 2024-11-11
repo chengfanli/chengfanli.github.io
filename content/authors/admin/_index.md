@@ -47,7 +47,7 @@ social:
     link: 'mailto:chengfan_li@brown.edu' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
-    link: https://github.com/lllllcf
+    link: https://github.com/chengfanli
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/chengfan.li

@@ -4,16 +4,16 @@ summary: Strategy, Mushroom and Snail, Exciting two-player asymmetric RTS game.
 tags:
   - game
 date: 2023-05-01
-# external_link: https://github.com/lllllcf/eecs494-p3
+# external_link: https://github.com/chengfanli/eecs494-p3
 links:
 - name: Download
-  url: https://lllllcf.itch.io/biology-452-field-ecology-of-snail-fungus-interaction
+  url: https://chengfanli.itch.io/biology-452-field-ecology-of-snail-fungus-interaction
 - name: Devlog
   url: https://www.indiedb.com/games/biology-452-field-ecology-of-snail-fungus-interaction
 - name: Github
-  url: https://github.com/lllllcf/eecs494-p3
+  url: https://github.com/chengfanli/eecs494-p3
 - name: Trailer
-  url: https://lllllcf.github.io/about/src/Trailer452.mp4
+  url: https://chengfanli.github.io/about/src/Trailer452.mp4
 
 ---
 

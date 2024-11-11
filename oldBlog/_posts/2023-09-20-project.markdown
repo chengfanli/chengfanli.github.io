@@ -9,7 +9,7 @@ tags: [Holidays, Hawaii]
 ---
 ## Games
 
-Please visit <a href="https://lllllcf.github.io/project/games/">[Game Portfolio]</a>.
+Please visit <a href="https://chengfanli.github.io/project/games/">[Game Portfolio]</a>.
 
 <br>
 
@@ -17,7 +17,7 @@ Please visit <a href="https://lllllcf.github.io/project/games/">[Game Portfolio]
 
 ## Sky Lantern Simulator
 
- <a href="{{site.baseurl}}/src/skylantern.mp4">[Trailer]</a> <a href="https://github.com/lllllcf/LuminaryStudio">[Github]</a>
+ <a href="{{site.baseurl}}/src/skylantern.mp4">[Trailer]</a> <a href="https://github.com/chengfanli/LuminaryStudio">[Github]</a>
 
 This project is a real-time simulation of Kongming Lantern using OpenGL. It's an immersive visualization that incorporates advanced graphics techniques to realistically portray this traditional Chinese lantern.
 
@@ -31,7 +31,7 @@ Using particle system, real-time texture mapping, dynamic environmental reflecti
 
 ## Generative Adversarial Network-based Rap Lyrics Generator
 
-<a href="https://lllllcf.github.io/project/project/EECS_487_Final.pdf">[Paper]</a> <a href="https://github.com/lllllcf/487-Project-Rap-Lyrics-Generation">[Github]</a>
+<a href="https://chengfanli.github.io/project/project/EECS_487_Final.pdf">[Paper]</a> <a href="https://github.com/chengfanli/487-Project-Rap-Lyrics-Generation">[Github]</a>
 
 As rap music quickly evolved into a mainstream music genre, it triggered the interest of a number of linguists and computer scientists. Rap lyrics are often considered one of the most complex kinds of lyrics. Eligible rap lyrics require not only creativity to tell an intriguing story but also lyrical skills to accommodate the strict rhyme patterns. Our project aims to study the computational creation of rap lyrics and make everyone able to “write” their own lyrics only by entering a piece of phrase. By utilizing multiple NLP techniques, we hope to generate rap lyrics that model the meaning, the rhyme, and the rhythm.
 
@@ -57,7 +57,7 @@ Using Python, JavaScript, HTML, SQL, and React to implement a similar design to 
 
 ## Predicting Growth of Fungi and Species Competitions under Different Environments Using CA Modeling
 
-<a href="https://lllllcf.github.io/project/project/2021MCM.pdf">[Paper]</a> <a href="https://github.com/lllllcf/2020-MCM-A">[Github]</a>
+<a href="https://chengfanli.github.io/project/project/2021MCM.pdf">[Paper]</a> <a href="https://github.com/chengfanli/2020-MCM-A">[Github]</a>
 
 <img src="{{site.baseurl}}/src/mcm.png" style="zoom:40%;" />
 
@@ -68,7 +68,7 @@ Use cellular automata to demonstrate the fungi's growth and ELO system for compe
 
 ## Peak Mission: Ion Thrusters to Saturn Saving the Maximum Fuel Consumption
 
-<a href="https://lllllcf.github.io/project/project/2020UPC.pdf">[Paper]</a>
+<a href="https://chengfanli.github.io/project/project/2020UPC.pdf">[Paper]</a>
 
 Design the least fuel-consumption trajectory for the spacecraft to the Saturn orbit using Gravity Assist and Piecewise Hohmann Transfer Model. Responsible for path design, gravity assist model establishment, and data integration.
 

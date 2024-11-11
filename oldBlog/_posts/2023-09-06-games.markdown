@@ -9,7 +9,7 @@ tags: [Holidays, Hawaii]
 ---
 ## BIOLOGY 452: Field Ecology of Snail-Fungus Interaction
 
-<a href="https://lllllcf.itch.io/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: itch.io]</a> <a href="https://www.indiedb.com/games/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: Indiedb]</a> <a href="{{site.baseurl}}/src/Trailer452.mp4">[Trailer]</a> <a href="{{site.baseurl}}/src/p3_build/WindowsBuild.zip">[Download Windows Build]</a> <a href="{{site.baseurl}}/src/p3_build/MacBuild.zip">[Download Mac Build]</a> <a href="https://github.com/lllllcf/eecs494-p3">[Github]</a>
+<a href="https://chengfanli.itch.io/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: itch.io]</a> <a href="https://www.indiedb.com/games/biology-452-field-ecology-of-snail-fungus-interaction">[Webpage: Indiedb]</a> <a href="{{site.baseurl}}/src/Trailer452.mp4">[Trailer]</a> <a href="{{site.baseurl}}/src/p3_build/WindowsBuild.zip">[Download Windows Build]</a> <a href="{{site.baseurl}}/src/p3_build/MacBuild.zip">[Download Mac Build]</a> <a href="https://github.com/chengfanli/eecs494-p3">[Github]</a>
 
 <img src="{{site.baseurl}}/src/CG1.png" style="zoom:20%;" /> &nbsp; &nbsp; &nbsp;<img src="{{site.baseurl}}/src/CG2.png" style="zoom:20%;" />
 
@@ -25,7 +25,7 @@ This game was jointly developed by Xiaoyu Liu, <a href="https://yanmeeei.github.
 
 ## Spatial-Temporal Narrative
 
-<a href="https://lllllcf.itch.io/spatial-temporal-narrative">[Play It Online]</a> <a href="https://github.com/lllllcf/EECS494-GameDev-Project2-ST-Narrative">[Github]</a>
+<a href="https://chengfanli.itch.io/spatial-temporal-narrative">[Play It Online]</a> <a href="https://github.com/chengfanli/EECS494-GameDev-Project2-ST-Narrative">[Github]</a>
 
 <img src="{{site.baseurl}}/src/p2c1.png" style="zoom:25%;" /> &nbsp; &nbsp; &nbsp;<img src="{{site.baseurl}}/src/p2c2.png" style="zoom:25%;" />
 
@@ -41,7 +41,7 @@ I developed the whole game.
 
 ## The Legend of Zelda (Unity Remaster)
 
-<a href="https://lllllcf.itch.io/legend-o-zelda">[Play It Online]</a>
+<a href="https://chengfanli.itch.io/legend-o-zelda">[Play It Online]</a>
 
 <img src="{{site.baseurl}}/src/zelda_cover.png" style="zoom:35%;" />
 

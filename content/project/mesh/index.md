@@ -4,7 +4,7 @@ summary: Implemented subdivision, simplification, denoising, and remeshing using
 tags:
   - CG
 date: 2024-03-06
-# external_link: https://github.com/lllllcf/LuminaryStudio
+# external_link: https://github.com/chengfanli/LuminaryStudio
 ---
 
 ### Output Comparison
@@ -29,9 +29,9 @@ Please do not attempt to duplicate the given reference images; we have tools to 
 
 | `.ini` File To Produce Output |                     Expected Output                      |                         Your Output                          |
 | :---------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
-|  subdivide_icosahedron_4.ini  | ![](https://lllllcf.github.io/about/src/graphics/ground_truth_pngs/final/subdivide_icosahedron_4.png) | ![Place screenshot of student_outputs/final/subdivide_icosahedron_4.obj here](https://lllllcf.github.io/about/src/graphics/student_outputs/final/sphere.png) |
-|   simplify_sphere_full.ini    |  ![](https://lllllcf.github.io/about/src/graphics/ground_truth_pngs/final/simplify_sphere_full.png)   | ![Place screenshot of student_outputs/final/simplify_sphere_full.obj here](https://lllllcf.github.io/about/src/graphics/student_outputs/final/tri.png) |
-|       simplify_cow.ini        |      ![](https://lllllcf.github.io/about/src/graphics/ground_truth_pngs/final/simplify_cow.png)       | ![Place screenshot of student_outputs/final/simplify_cow.obj here](https://lllllcf.github.io/about/src/graphics/student_outputs/final/cow.png) |
+|  subdivide_icosahedron_4.ini  | ![](https://chengfanli.github.io/about/src/graphics/ground_truth_pngs/final/subdivide_icosahedron_4.png) | ![Place screenshot of student_outputs/final/subdivide_icosahedron_4.obj here](https://chengfanli.github.io/about/src/graphics/student_outputs/final/sphere.png) |
+|   simplify_sphere_full.ini    |  ![](https://chengfanli.github.io/about/src/graphics/ground_truth_pngs/final/simplify_sphere_full.png)   | ![Place screenshot of student_outputs/final/simplify_sphere_full.obj here](https://chengfanli.github.io/about/src/graphics/student_outputs/final/tri.png) |
+|       simplify_cow.ini        |      ![](https://chengfanli.github.io/about/src/graphics/ground_truth_pngs/final/simplify_cow.png)       | ![Place screenshot of student_outputs/final/simplify_cow.obj here](https://chengfanli.github.io/about/src/graphics/student_outputs/final/cow.png) |
 
 
 
@@ -39,11 +39,11 @@ Output for Bilateral Mesh Denoising (Note: if you did not implement this you can
 
 | `.ini` File To Produce Output |                       Noisy Mesh .png                        |                      Denoised Mesh .png                      |
 | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   `extra/denoise_bunny.ini`   | ![Place screenshot of a noisy mesh here](https://lllllcf.github.io/about/src/graphics/student_outputs/extra/noise_bunny.png) | ![Place screenshot of your denoised mesh here](https://lllllcf.github.io/about/src/graphics/student_outputs/extra/denoise_bunny.png) |
+|   `extra/denoise_bunny.ini`   | ![Place screenshot of a noisy mesh here](https://chengfanli.github.io/about/src/graphics/student_outputs/extra/noise_bunny.png) | ![Place screenshot of your denoised mesh here](https://chengfanli.github.io/about/src/graphics/student_outputs/extra/denoise_bunny.png) |
 
 | `.ini` File To Produce Output |                       Noisy Mesh .png                        |                      Denoised Mesh .png                      |
 | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  `extra/denoise_moomoo.ini`   | ![Place screenshot of a noisy mesh here](https://lllllcf.github.io/about/src/graphics/student_outputs/extra/noise_moomoo.png) | ![Place screenshot of your denoised mesh here](https://lllllcf.github.io/about/src/graphics/student_outputs/extra/denoise_moomoo.png) |
+|  `extra/denoise_moomoo.ini`   | ![Place screenshot of a noisy mesh here](https://chengfanli.github.io/about/src/graphics/student_outputs/extra/noise_moomoo.png) | ![Place screenshot of your denoised mesh here](https://chengfanli.github.io/about/src/graphics/student_outputs/extra/denoise_moomoo.png) |
 
 
 

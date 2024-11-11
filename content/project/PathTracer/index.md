@@ -26,12 +26,12 @@ Please do not attempt to duplicate the given reference images; we have tools to 
 
 |         `.ini` File To Produce Output         |                       Expected Output                        |                         Your Output                          |
 | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         cornell_box_full_lighting.ini         | ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_full_lighting.png) | ![Place cornell_box_full_lighting.png in student_outputs/final folder](https://lllllcf.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting.png) |
-|     cornell_box_direct_lighting_only.ini      | ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_direct_lighting_only.png) | ![Place cornell_box_direct_lighting_only.png in student_outputs/final folder](https://lllllcf.github.io/about/src/graphics/student_outputs/final/cornell_box_direct_lighting_only.png) |
-| cornell_box_full_lighting_low_probability.ini | ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_full_lighting_low_probability.png) | ![Place cornell_box_full_lighting_low_probability.png in student_outputs/final folder](https://lllllcf.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting_low_probability.png) |
-|                  mirror.ini                   |      ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/mirror.png)       | ![Place mirror.png in student_outputs/final folder](../../about/src/graphics/student_outputs/final/mirror.png) |
-|                  glossy.ini                   |      ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/glossy.png)       | ![Place glossy.png in student_outputs/final folder](https://lllllcf.github.io/about/src/graphics/student_outputs/final/glossy.png) |
-|                refraction.ini                 |    ![](https://lllllcf.github.io/about/src/graphics/example-scenes/ground_truth/final/refraction.png)     | ![Place refraction.png in student_outputs/final folder](https://lllllcf.github.io/about/src/graphics/student_outputs/final/refraction.png) |
+|         cornell_box_full_lighting.ini         | ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_full_lighting.png) | ![Place cornell_box_full_lighting.png in student_outputs/final folder](https://chengfanli.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting.png) |
+|     cornell_box_direct_lighting_only.ini      | ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_direct_lighting_only.png) | ![Place cornell_box_direct_lighting_only.png in student_outputs/final folder](https://chengfanli.github.io/about/src/graphics/student_outputs/final/cornell_box_direct_lighting_only.png) |
+| cornell_box_full_lighting_low_probability.ini | ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/cornell_box_full_lighting_low_probability.png) | ![Place cornell_box_full_lighting_low_probability.png in student_outputs/final folder](https://chengfanli.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting_low_probability.png) |
+|                  mirror.ini                   |      ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/mirror.png)       | ![Place mirror.png in student_outputs/final folder](../../about/src/graphics/student_outputs/final/mirror.png) |
+|                  glossy.ini                   |      ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/glossy.png)       | ![Place glossy.png in student_outputs/final folder](https://chengfanli.github.io/about/src/graphics/student_outputs/final/glossy.png) |
+|                refraction.ini                 |    ![](https://chengfanli.github.io/about/src/graphics/example-scenes/ground_truth/final/refraction.png)     | ![Place refraction.png in student_outputs/final folder](https://chengfanli.github.io/about/src/graphics/student_outputs/final/refraction.png) |
 
 > Note: The reference images above were produced using the [Extended Reinhard](https://64.github.io/tonemapping/#extended-reinhard) tone mapping function with minor gamma correction. You may choose to use another mapping function or omit gamma correction.
 
@@ -121,7 +121,7 @@ Set `attenuate = true` inside the `.ini` file.
 
 Example: `template_inis/extra/attenuate_refraction.ini`
 
- <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/refraction.png" alt="softshadow" style="zoom:45%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/attenuate_refraction.png" alt="softshadow" style="zoom:45%;" />
+ <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/refraction.png" alt="softshadow" style="zoom:45%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/attenuate_refraction.png" alt="softshadow" style="zoom:45%;" />
 
 We can observe that the refracted light intensity on the right picture is weaker because of the attenuation.
 
@@ -131,9 +131,9 @@ Set `depthofField = true` inside the `.ini` file. On `[DoF]` section,  specify t
 
 Example: `template_inis/extra/dof.ini`
 
- <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/glossy.png" alt="softshadow" style="zoom:40%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/glossy_dof_3.png" alt="softshadow" style="zoom:40%;" /> 
+ <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/glossy.png" alt="softshadow" style="zoom:40%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/glossy_dof_3.png" alt="softshadow" style="zoom:40%;" /> 
 
-<img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/glossy_dof_4.png" alt="softshadow" style="zoom:40%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/glossy_dof_5.png" alt="softshadow" style="zoom:40%;" />
+<img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/glossy_dof_4.png" alt="softshadow" style="zoom:40%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/glossy_dof_5.png" alt="softshadow" style="zoom:40%;" />
 
 Here are examples of glossy specular scene without dof, with `focalDistance = 3.0`, `focalDistance = 4.0` and `focalDistance = 5.0`. (all the three figures with dof has `aperture = 0.5`)
 
@@ -145,7 +145,7 @@ Set `importanceSampling = true` inside the `.ini` file.
 
   Example: `template_inis/extra/IS_diffuse.ini`
 
-  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting.png" alt="softshadow" style="zoom:55%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/IS_cornell.png" alt="softshadow" style="zoom:55%;" />
+  <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/cornell_box_full_lighting.png" alt="softshadow" style="zoom:55%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/IS_cornell.png" alt="softshadow" style="zoom:55%;" />
 
   We can observe that the right figure with importance sampling has finer details and less noise.
 
@@ -153,7 +153,7 @@ Set `importanceSampling = true` inside the `.ini` file.
 
   Example: `template_inis/extra/IS_glossy.ini`
 
-  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/glossy.png" alt="softshadow" style="zoom:55%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/IS_glossy.png" alt="softshadow" style="zoom:55%;" />
+  <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/glossy.png" alt="softshadow" style="zoom:55%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/IS_glossy.png" alt="softshadow" style="zoom:55%;" />
 
   We can observe that the right figure with importance sampling has smoother glossy surface and less noise .
 
@@ -161,7 +161,7 @@ Set `importanceSampling = true` inside the `.ini` file.
 
   Example: `template_inis/extra/IS_mirror.ini`
 
-  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/mirror.png" alt="softshadow" style="zoom:55%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/IS_mirror.png" alt="softshadow" style="zoom:55%;" />
+  <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/mirror.png" alt="softshadow" style="zoom:55%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/IS_mirror.png" alt="softshadow" style="zoom:55%;" />
 
   We can observe that the right figure with importance sampling has less noise. But for the mirror surface, we did not observe any significant difference, perhaps because the number of samples was large and the difference was not obvious.
 
@@ -169,7 +169,7 @@ Set `importanceSampling = true` inside the `.ini` file.
 
   Example: `template_inis/extra/IS_refraction.ini`
 
-  <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/final/refraction.png" alt="softshadow" style="zoom:55%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/IS_refraction.png" alt="softshadow" style="zoom:55%;" />
+  <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/final/refraction.png" alt="softshadow" style="zoom:55%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/IS_refraction.png" alt="softshadow" style="zoom:55%;" />
 
   We can observe that the right figure with importance sampling has less noise. For the refraction, we can observe that the light refracting through the sphere creates a denser and richer projection on the ground for the right figure.
 
@@ -179,7 +179,7 @@ Set `denoise = true` inside the `.ini` file.
 
 Example: `template_inis/extra/denoise_on.ini` and `template_inis/extra/denoise_off.ini`
 
- <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/cornell_box_denoise_off.png" alt="softshadow" style="zoom:45%;" /> <img src="https://lllllcf.github.io/about/src/graphics/student_outputs/extra/cornell_box_denoise_on.png" alt="softshadow" style="zoom:45%;" /> 
+ <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/cornell_box_denoise_off.png" alt="softshadow" style="zoom:45%;" /> <img src="https://chengfanli.github.io/about/src/graphics/student_outputs/extra/cornell_box_denoise_on.png" alt="softshadow" style="zoom:45%;" /> 
 
 We can observe that right figure has reduced noise.
 

@@ -4,7 +4,7 @@ summary: Developed deformable solid objects simulation based on tetrahedral mesh
 tags:
   - CG
 date: 2024-03-20
-# external_link: https://github.com/lllllcf/ProjectsCollection/blob/master/fem.md
+# external_link: https://github.com/chengfanli/ProjectsCollection/blob/master/fem.md
 ---
 
 Developed deformable solid objects simulation based on tetrahedral meshes using FEM.

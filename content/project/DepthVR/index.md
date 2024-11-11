@@ -3,7 +3,7 @@ title: Real-Time Temporally Consistent Depth Completion for VR-Teleoperated Robo
 summary: Real-time depth completion and 3D reconstruction system for enhanced VR-based robot control. Temporally consistent point cloud reconstruction.
 tags:
   - CV
-date: 2024-07-01
+date: 2024-11-11
 
 links:
 - name: Unity

@@ -7,7 +7,7 @@ date: 2024-07-01
 
 links:
 - name: Unity
-  url: https://github.com/h2r/GHOST
+  url: https://github.com/h2r/GHOST/tree/optical_flow
 - name: Model
   url: https://github.com/chengfanli/Realtime-Depth-Estimation-Nconv
 - name: Abstract
@@ -21,6 +21,9 @@ links:
 
 High-quality visual perception is essential for precise control and interaction in VR-teleoperated robotics. Existing systems are often challenged by sparse, noisy inputs and high latency, emphasizing the need for real-time, temporally consistent, and dense point cloud reconstruction. 
 
+\[[Unity Repo](https://github.com/h2r/GHOST/tree/optical_flow)\]
+\[[Model Repo](https://github.com/chengfanli/Realtime-Depth-Estimation-Nconv)\]
+\[[Abstract](https://chengfanli.github.io/about/src/VRteleop/TeleNetAbstract.pdf)\]
 
 ## Overview
 

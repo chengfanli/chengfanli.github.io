@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^3Dcompletion/(.*)$ /project/3dcompletion/$1 [R=301,L]

@@ -1,13 +1,13 @@
 ---
 title: Open-ended Example-Based Shape Modeling
-summary: Developed an autoregressive transformer decoder for precise part selection, leveraging extrinsic (Gaussian mixture models) and intrinsic (surface geometric information) implicit representations from SPAGHETTI to to facilitate 3D shape generation and synthesis based on a small set of example shapes.
+summary: Developed an autoregressive transformer decoder for precise part selection, leveraging extrinsic and intrinsic implicit representations to to facilitate 3D shape generation and synthesis based on a small set of example shapes.
 tags:
   - CG
 date: 2024-11-10
 # external_link: https://github.com/chengfanli/eecs494-p3
-# links:
-# - name: Download
-#   url: https://chengfanli.itch.io/biology-452-field-ecology-of-snail-fungus-interaction
+links:
+- name: Github
+  url: https://github.com/dinhanhtruong/implicit-transformer-shape-synthesis
 # - name: Devlog
 #   url: https://www.indiedb.com/games/biology-452-field-ecology-of-snail-fungus-interaction
 # - name: Github
@@ -17,12 +17,21 @@ date: 2024-11-10
 
 ---
 
-<!-- In this two-player asymmetric RTS game, players control Mushroom and Snail as two opposing species that aim to destroy each other in an enclosed natural environment with limited resources. Each side has unique abilities and tools to help it achieve dominance over the other.
+Our group explored the challenging field of open-ended example-based 3D shape generation and synthesis. We developed an autoregressive transformer decoder that leverages the extrinsic (GMM) and intrinsic (surface geometry) representations to automatically complete the part selection process based on a small set of example shapes.
 
-<img src="../../about/src/CG1.png" style="width: 62%;" /><img src="../../about/src/CG2.png" style="width: 62%;" />
+Left: input example shapes
 
-This game was jointly developed by Xiaoyu Liu, <a href="https://yanmeeei.github.io/portfolio/">Yanmei Wang</a>, <a href="https://yushi111.github.io/">Yushi She</a>, and me. I implemented buildings, the spit skill, the growth algorithm, the vitality system, and the skill selection mechanism.
+Right: Generated shapes 
 
-<img src="../../about/src/show.jpg" style="width: 62%;" /> -->
+<img src="https://chengfanli.github.io/about/src/3Dcompletion/res1.jpg" alt="teaser" style="zoom:50%;" />
 
+<img src="https://chengfanli.github.io/about/src/3Dcompletion/res2.jpg" alt="teaser" style="zoom:50%;" />
+
+Training the decoder requires enormous 3D data. I solved this limitation by constructing a dataset of meaningful combinations of example shapes and their corresponding "ideal" parts to compose. Because high-quality 3D mesh data is challenging to obtain, I used a cascaded diffusion model to complete and reconstruct part-level shapes. I split the existing shapes into parts and reconstructed complete shapes for each part, creating a meaningful training dataset containing more than 60,000 3D shapes. 
+
+<img src="https://chengfanli.github.io/about/src/3Dcompletion/completion0.jpg" alt="teaser" style="zoom:50%;" />
+
+<img src="https://chengfanli.github.io/about/src/3Dcompletion/completion1.jpg" alt="teaser" style="zoom:50%;" />
+
+The example shapes are partially identical to the ground truth while maintaining diversity across each other. Partially identical completion maintains intrinsic and extrinsic features of the incomplete shape by using preserved priors in the diffusion model's denoising process, ensuring consistent surface geometry. Additionally, introducing a diversity of example shapes measured by Bhattacharyya distance and supported by introducing bias in the diffusion model enhances the transformer decoder's generalization ability.
 

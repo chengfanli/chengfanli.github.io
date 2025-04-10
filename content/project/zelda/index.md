@@ -7,7 +7,7 @@ date: 2023-02-01
 # external_link: https://github.com/chengfanli/ProjectsCollection/blob/master/zelda.md
 links:
 - name: Play It Online
-  url: https://chengfanli.itch.io/legend-o-zelda
+  url: https://lllllcf.itch.io/legend-o-zelda
 ---
 
 <img src="https://chengfanli.github.io/about/src/zelda_cover.png" style="zoom:35%;" />

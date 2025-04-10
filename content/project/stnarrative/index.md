@@ -7,7 +7,7 @@ date: 2023-03-01
 # external_link: https://github.com/chengfanli/EECS494-GameDev-Project2-ST-Narrative
 links:
 - name: Play It Online
-  url: https://chengfanli.itch.io/spatial-temporal-narrative
+  url: https://lllllcf.itch.io/spatial-temporal-narrative
 - name: Github
   url: https://github.com/chengfanli/EECS494-GameDev-Project2-ST-Narrative
 ---
